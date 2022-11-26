@@ -1,11 +1,87 @@
 {
-  "data": {},
-  "tableFolder": "notion-like-tables",
-  "viewModeSync": {
-    "eventType": "update-state",
-    "tableId": null,
-    "viewModes": []
+  "data": {
+    "table-id-JVglhD": {
+      "model": {
+        "columnIds": [
+          "column-id-dmORawjB",
+          "column-id-Qec56PTz"
+        ],
+        "rowIds": [
+          "row-id-av2F9avi",
+          "row-id-PwaNhD0U"
+        ],
+        "cells": [
+          {
+            "id": "cell-id-LdApDVsP",
+            "columnId": "column-id-dmORawjB",
+            "rowId": "row-id-av2F9avi",
+            "markdown": "Nome",
+            "html": "Nome",
+            "isHeader": true
+          },
+          {
+            "id": "cell-id-cKxMbidS",
+            "columnId": "column-id-Qec56PTz",
+            "rowId": "row-id-av2F9avi",
+            "markdown": "Sobrenome",
+            "html": "Sobrenome",
+            "isHeader": true
+          },
+          {
+            "id": "cell-id-E0mUcooa",
+            "columnId": "column-id-dmORawjB",
+            "rowId": "row-id-PwaNhD0U",
+            "markdown": "Vitor",
+            "html": "Vitor",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-Sn4h4qFM",
+            "columnId": "column-id-Qec56PTz",
+            "rowId": "row-id-PwaNhD0U",
+            "markdown": "Santos",
+            "html": "Santos",
+            "isHeader": false
+          }
+        ]
+      },
+      "settings": {
+        "columns": {
+          "column-id-dmORawjB": {
+            "sortDir": "default",
+            "width": "120px",
+            "type": "text",
+            "useAutoWidth": true,
+            "shouldWrapOverflow": false,
+            "tags": []
+          },
+          "column-id-Qec56PTz": {
+            "sortDir": "default",
+            "width": "120px",
+            "type": "text",
+            "useAutoWidth": true,
+            "shouldWrapOverflow": false,
+            "tags": []
+          }
+        },
+        "rows": {
+          "row-id-av2F9avi": {
+            "creationDate": 1669473851759
+          },
+          "row-id-PwaNhD0U": {
+            "creationDate": 1669473851760
+          }
+        }
+      },
+      "pluginVersion": 505
+    }
   },
-  "shouldClear": true,
+  "tableFolder": "_notion-like-tables",
+  "viewModeSync": {
+    "tableId": "table-id-JVglhD",
+    "viewModes": [],
+    "eventType": "update-state"
+  },
+  "shouldClear": false,
   "shouldDebug": false
 }

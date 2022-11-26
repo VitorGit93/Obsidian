@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
+                "file": "_notion-like-tables/table-id-JVglhD.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "_notion-like-tables/table-id-JVglhD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "_notion-like-tables/table-id-JVglhD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "_notion-like-tables/table-id-JVglhD.md"
               }
             }
           },
@@ -172,15 +172,14 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "113d45e7de89c955",
   "lastOpenFiles": [
+    "README.md",
     "Sem título.md",
     "BaseDados/Untitled database.md",
     "BaseDados/jol.md",
-    "README.md",
     "angelotti_banco_2010.md",
     "2022-11-25.md"
   ]
