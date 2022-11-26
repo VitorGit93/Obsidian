@@ -49,6 +49,9 @@ columns:
     id: Arquivos
     label: Arquivos
     position: 100
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -63,6 +66,9 @@ columns:
     id: Arquivos_1
     label: Arquivos 1
     position: 100
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
     config:
       enable_media_view: true
       link_alias_enabled: true

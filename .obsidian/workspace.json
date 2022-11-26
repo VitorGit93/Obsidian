@@ -25,8 +25,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem título.md",
+                "file": "README.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": true
               }
             }
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sem título.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sem título.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sem título.md"
+                "file": "README.md"
               }
             }
           },
@@ -171,13 +172,15 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "113d45e7de89c955",
   "lastOpenFiles": [
-    "README.md",
+    "Sem título.md",
     "BaseDados/Untitled database.md",
     "BaseDados/jol.md",
+    "README.md",
     "angelotti_banco_2010.md",
     "2022-11-25.md"
   ]
