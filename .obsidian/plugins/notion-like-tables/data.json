@@ -1,0 +1,11 @@
+{
+  "data": {},
+  "tableFolder": "notion-like-tables",
+  "viewModeSync": {
+    "eventType": "update-state",
+    "tableId": null,
+    "viewModes": []
+  },
+  "shouldClear": true,
+  "shouldDebug": false
+}

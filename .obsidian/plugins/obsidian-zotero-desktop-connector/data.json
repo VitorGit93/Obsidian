@@ -1,0 +1,14 @@
+{
+  "database": "Zotero",
+  "noteImportFolder": "",
+  "pdfExportImageDPI": 120,
+  "pdfExportImageFormat": "png",
+  "pdfExportImageQuality": 90,
+  "citeFormats": [],
+  "exportFormats": [],
+  "exeVersion": "1.0.14",
+  "shouldShowCiteSuggest": true,
+  "shouldConcat": true,
+  "pdfExportImageOCR": true,
+  "pdfExportImageTesseractPath": "C:\\Users\\vitor\\AppData\\Local\\Tesseract-OCR\\tesseract.exe"
+}

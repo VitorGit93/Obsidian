@@ -14,5 +14,9 @@
   "obsidian-kanban",
   "calendar",
   "obsidian-git",
-  "obsidian-citation-plugin"
+  "obsidian-citation-plugin",
+  "tag-wrangler",
+  "obsidian-languagetool-plugin",
+  "notion-like-tables",
+  "dbfolder"
 ]

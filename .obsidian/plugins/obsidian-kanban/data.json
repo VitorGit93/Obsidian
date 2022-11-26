@@ -1,0 +1,6 @@
+{
+  "date-format": "DD/MM/yyyy",
+  "date-display-format": "DD/MM/yyyy",
+  "prepend-archive-format": "DD/MM/yyyy - HH:mm:ss",
+  "date-picker-week-start": 1
+}
