@@ -19,5 +19,9 @@
   "obsidian-languagetool-plugin",
   "notion-like-tables",
   "dbfolder",
+<<<<<<< HEAD
+  "copy-as-latex"
+=======
   "obsidian-activity-history"
+>>>>>>> origin/main
 ]

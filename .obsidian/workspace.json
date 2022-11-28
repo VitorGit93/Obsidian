@@ -21,19 +21,15 @@
             }
           },
           {
-            "id": "113d45e7de89c955",
+            "id": "08ae69a9556443f2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_notion-like-tables/table-id-JVglhD.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           },
           {
@@ -174,10 +166,11 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "ae880c490ebc3875",
+  "active": "08ae69a9556443f2",
   "lastOpenFiles": [
-    "_notion-like-tables/table-id-JVglhD.md",
+    "conflict-files-obsidian-git.md",
     "README.md",
+    "_notion-like-tables/table-id-JVglhD.md",
     "Sem título.md",
     "BaseDados/Untitled database.md",
     "BaseDados/jol.md",

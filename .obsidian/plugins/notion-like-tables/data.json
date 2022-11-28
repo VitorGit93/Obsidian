@@ -1,4 +1,12 @@
 {
+<<<<<<< HEAD
+  "data": {},
+  "tableFolder": "NotionDB",
+  "viewModeSync": {
+    "eventType": "update-state",
+    "tableId": null,
+    "viewModes": []
+=======
   "data": {
     "table-id-JVglhD": {
       "model": {
@@ -75,6 +83,7 @@
       },
       "pluginVersion": 505
     }
+>>>>>>> origin/main
   },
   "tableFolder": "_notion-like-tables",
   "viewModeSync": {
