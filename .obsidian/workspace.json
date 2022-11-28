@@ -15,6 +15,7 @@
               "state": {
                 "file": "README.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": true
               }
             }
@@ -32,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notion-like-tables/table-id-JVglhD.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notion-like-tables/table-id-JVglhD.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notion-like-tables/table-id-JVglhD.md"
+                "file": "README.md"
               }
             }
           },
@@ -174,8 +174,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "113d45e7de89c955",
+  "active": "ae880c490ebc3875",
   "lastOpenFiles": [
+    "_notion-like-tables/table-id-JVglhD.md",
     "README.md",
     "Sem título.md",
     "BaseDados/Untitled database.md",
