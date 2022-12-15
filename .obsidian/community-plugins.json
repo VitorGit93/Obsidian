@@ -1,27 +1,23 @@
 [
   "table-editor-obsidian",
-  "obsidian-markdown-formatting-assistant-plugin",
-  "obsidian-mind-map",
+  "buttons",
+  "calendar",
+  "obsidian-citation-plugin",
+  "copy-as-latex",
+  "dataview",
+  "dbfolder",
+  "drawio-obsidian",
   "obsidian-dictionary-plugin",
   "cm-editor-syntax-highlight-obsidian",
-  "buttons",
-  "obsidian-charts",
-  "obsidian-zotero-desktop-connector",
   "obsidian-excel-to-markdown-table",
-  "obsidian-plantuml",
-  "drawio-obsidian",
-  "dataview",
   "obsidian-kanban",
-  "calendar",
-  "obsidian-git",
-  "obsidian-citation-plugin",
-  "tag-wrangler",
   "obsidian-languagetool-plugin",
+  "obsidian-markdown-formatting-assistant-plugin",
+  "obsidian-mind-map",
   "notion-like-tables",
-  "dbfolder",
-<<<<<<< HEAD
-  "copy-as-latex"
-=======
-  "obsidian-activity-history"
->>>>>>> origin/main
+  "obsidian-charts",
+  "obsidian-git",
+  "obsidian-plantuml",
+  "tag-wrangler",
+  "obsidian-zotero-desktop-connector"
 ]
