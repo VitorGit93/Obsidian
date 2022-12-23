@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4de456056b2ae8cc",
+        "id": "108bc935d2a719a9",
         "type": "tabs",
         "children": [
           {
-            "id": "c1ee8726c166e732",
+            "id": "1639f79a1560c386",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -81,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           },
           {
@@ -181,8 +177,9 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "c1ee8726c166e732",
+  "active": "1639f79a1560c386",
   "lastOpenFiles": [
+    "Sem título.canvas",
     "conflict-files-obsidian-git.md",
     "README.md",
     "notionWS/Base Biblio/Acervos/Acervos.md",
@@ -191,7 +188,6 @@
     "notionWS/Base Biblio/Acervos/Untitled database 1.md",
     "notionWS/Base Biblio/Acervos/Acervos/(SOA) Service Oriented Architecture.md",
     "notionWS/Base Biblio/Acervos/Untitled database.md",
-    "Sem título.md",
-    "notionWS/Untitled database.md"
+    "Sem título.md"
   ]
 }
