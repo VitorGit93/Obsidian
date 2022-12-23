@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 [
   "table-editor-obsidian",
   "buttons",
@@ -17,11 +16,5 @@
   "obsidian-mind-map",
   "notion-like-tables",
   "obsidian-charts",
-  "obsidian-git",
-  "obsidian-plantuml",
-  "tag-wrangler",
-  "obsidian-zotero-desktop-connector"
+  "obsidian-git"
 ]
-=======
-[]
->>>>>>> origin/main
